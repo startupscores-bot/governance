@@ -12,11 +12,15 @@ project is governed.
 - [Transfer plan](TRANSFER.md)
 - [Contributing](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security policy](SECURITY.md)
 
 ## Participate
 
-Governance work happens through public GitHub issues and pull requests in this
-repository. See [CONTRIBUTING.md](CONTRIBUTING.md) before proposing a change.
+Questions, ideas, governance work, and ordinary bugs belong in public
+[GitHub Discussions](https://github.com/caipe-io/governance/discussions) or
+issues. Security vulnerabilities are reported privately under the
+[security policy](SECURITY.md). See [CONTRIBUTING.md](CONTRIBUTING.md) before
+proposing a change.
 
 ## License
 

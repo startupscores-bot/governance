@@ -37,7 +37,9 @@ the separation.
 - [ ] Define and seat the initial Steering Committee through a separate public
   governance proposal.
 - [ ] Publish committee affiliations, terms, and conflict disclosures.
-- [ ] Establish private Code of Conduct and security reporting channels.
+- [x] Publish the private security reporting channel.
+- [ ] Establish the private Code of Conduct reporting channel.
+- [ ] Test both private reporting channels.
 - [ ] Create GitHub teams for steering, maintainers, security, and working-group
   leads with least-privilege access.
 - [ ] Ensure at least two unaffiliated administrators can recover critical

@@ -42,6 +42,11 @@ must publish and test a private reporting channel here.
 
 Do not report conduct incidents in a public issue.
 
+The security reporting address is only for product and infrastructure
+vulnerabilities. It is not the Code of Conduct reporting channel. Questions,
+governance proposals, feature requests, and ordinary bugs should remain in
+public discussions or issues.
+
 The enforcement team will:
 
 - acknowledge reports promptly;

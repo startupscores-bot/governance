@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/caipe-io/governance/security/policy
+    about: Read the policy and report vulnerabilities privately.
+  - name: Ask a public question
+    url: https://github.com/caipe-io/governance/discussions
+    about: Use Discussions for support, ideas, and community conversation.

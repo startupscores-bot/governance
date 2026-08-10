@@ -8,6 +8,8 @@ review a proposal, or submit a pull request.
 - Read the [charter](CHARTER.md), [decision process](DECISION-MAKING.md), and
   [Code of Conduct](CODE_OF_CONDUCT.md).
 - Search open issues and pull requests for related work.
+- Report security vulnerabilities privately under the
+  [security policy](SECURITY.md); do not open a public issue.
 - Use a GitHub issue for proposals that change authority, policy, project scope,
   committee structure, or working-group mandates.
 
@@ -43,5 +45,8 @@ of another person.
   recorded.
 - Disclose relevant affiliations and conflicts.
 - Do not publish confidential conduct, security, legal, or personal data.
+
+Except for confidential security and Code of Conduct matters, project work and
+decisions should remain in public discussions, issues, and pull requests.
 
 By participating, you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
