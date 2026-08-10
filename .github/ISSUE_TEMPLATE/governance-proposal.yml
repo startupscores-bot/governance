@@ -1,0 +1,49 @@
+name: Governance proposal
+description: Propose a change to CAIPE governance, policy, or project scope
+title: "Governance: "
+labels:
+  - governance
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Governance proposals are public. Do not include confidential conduct, security, legal, or personal information.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem needs a governance decision?
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Proposed decision
+      description: State the exact outcome requested.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and impact
+      description: Which people, repositories, assets, or policies are affected?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+    validations:
+      required: true
+  - type: textarea
+    id: conflicts
+    attributes:
+      label: Affiliations and conflicts
+      description: Disclose relevant employer, financial, or organizational interests, or write "None."
+    validations:
+      required: true
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation and rollback
+      description: Describe execution, validation, and rollback when applicable.

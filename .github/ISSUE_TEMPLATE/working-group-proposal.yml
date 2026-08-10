@@ -1,0 +1,51 @@
+name: Working group proposal
+description: Propose a new CAIPE working group
+title: "Working group: "
+labels:
+  - governance
+  - working-group
+body:
+  - type: textarea
+    id: mission
+    attributes:
+      label: Mission
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and out-of-scope areas
+    validations:
+      required: true
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables and success measures
+    validations:
+      required: true
+  - type: textarea
+    id: authority
+    attributes:
+      label: Requested authority
+    validations:
+      required: true
+  - type: textarea
+    id: leads
+    attributes:
+      label: Proposed leads and affiliations
+      description: Identify at least two proposed leads, preferably from different employers.
+    validations:
+      required: true
+  - type: textarea
+    id: operations
+    attributes:
+      label: Communications, meetings, and records
+    validations:
+      required: true
+  - type: input
+    id: review_date
+    attributes:
+      label: Initial review date
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
