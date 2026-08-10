@@ -95,5 +95,5 @@ Three consecutive missed meetings without notice trigger an inactivity review.
 | 2 | Shubham Bakshi | [@subbaksh](https://github.com/subbaksh) | Cisco | First regular election |
 | 3 | Kevin Kantesaria | [@kevkantes](https://github.com/kevkantes) | Splunk | First regular election |
 | 4 | Erik Lutz | [@ErikMLutz](https://github.com/ErikMLutz) | Splunk | First regular election |
-| 5 | Sibu | [@sibu](https://github.com/sibu) | Independent | First regular election |
+| 5 | Sibu Thomas Matthew | [@sibuthomasmathew](https://github.com/sibuthomasmathew) | Independent | First regular election |
 | 6 | Sunny Whang | [@suwhang-cisco](https://github.com/suwhang-cisco) | Cisco | First regular election |
