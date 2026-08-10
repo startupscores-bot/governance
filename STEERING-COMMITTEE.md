@@ -2,15 +2,15 @@
 
 ## Status
 
-The committee is active with five seated members. The roster is maintained in
+The committee is active with six seated members. The roster is maintained in
 this file through public pull requests.
 
 ## Composition
 
-- Five voting seats.
+- Six voting seats.
 - Members serve as individuals, not as employer representatives.
-- No more than two voting members may share the same employer or controlling
-  organization.
+- No more than half of the voting members may share the same employer or
+  controlling organization.
 - Members serve one-year terms and may serve at most three consecutive terms.
 - A Chair and Secretary are elected annually by the committee from among its
   members. These roles do not receive additional votes.
@@ -96,3 +96,4 @@ Three consecutive missed meetings without notice trigger an inactivity review.
 | 3 | Kevin Kantesaria | [@kevkantes](https://github.com/kevkantes) | Splunk | First regular election |
 | 4 | Erik Lutz | [@ErikMLutz](https://github.com/ErikMLutz) | Splunk | First regular election |
 | 5 | Sibu | [@sibu](https://github.com/sibu) | Independent | First regular election |
+| 6 | Sunny Whang | [@suwhang-cisco](https://github.com/suwhang-cisco) | Cisco | First regular election |
