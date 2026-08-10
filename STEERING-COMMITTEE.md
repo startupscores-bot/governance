@@ -2,9 +2,8 @@
 
 ## Status
 
-The committee becomes active when at least three members are seated. No members
-are seated yet. The roster will be maintained in this file through public pull
-requests.
+The committee is active with five seated members. The roster is maintained in
+this file through public pull requests.
 
 ## Composition
 
@@ -23,21 +22,8 @@ recused.
 
 ## Initial formation
 
-Initial committee membership will be defined later through a separate public
-CAIPE governance proposal.
-
-- No current role, repository permission, or organizational affiliation grants
-  automatic membership.
-- The proposal must identify each candidate, affiliation, term, selection
-  method, and effective date.
-- Each candidate must publicly accept the charter, Code of Conduct, and conflict
-  disclosure requirements.
-- The five-seat and affiliation-limit rules apply to the initial roster.
-- The initial committee serves no longer than six months before the first
-  regular election.
-
-Before at least three members are seated, the committee has no quorum and may
-not make binding decisions.
+The initial committee is recorded in the roster below. The initial committee
+serves no longer than six months before the first regular election.
 
 ## Regular elections
 
@@ -105,8 +91,8 @@ Three consecutive missed meetings without notice trigger an inactivity review.
 
 | Seat | Member | GitHub | Affiliation | Term ends |
 | --- | --- | --- | --- | --- |
-| 1 | Vacant | — | — | — |
-| 2 | Vacant | — | — | — |
-| 3 | Vacant | — | — | — |
-| 4 | Vacant | — | — | — |
-| 5 | Vacant | — | — | — |
+| 1 | Sri Aradhyula | [@sriaradhyula](https://github.com/sriaradhyula) | Cisco | First regular election |
+| 2 | Shubham Bakshi | [@subbaksh](https://github.com/subbaksh) | Cisco | First regular election |
+| 3 | Kevin Kantesaria | [@kevkantes](https://github.com/kevkantes) | Splunk | First regular election |
+| 4 | Erik Lutz | [@ErikMLutz](https://github.com/ErikMLutz) | Splunk | First regular election |
+| 5 | Sibu | [@sibu](https://github.com/sibu) | Independent | First regular election |
