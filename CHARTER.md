@@ -50,6 +50,11 @@ release process, security policy, and decision-making boundaries.
 
 ## 5. Roles
 
+Role requirements, promotion, scope, emeritus status, and inactivity are
+defined in the [Contributor Ladder](CONTRIBUTOR_LADDER.md) and
+[Role Activity and Inactivity Policy](INACTIVITY.md). Active and emeritus
+Maintainers are recorded in the [Maintainer Registry](MAINTAINERS.md).
+
 ### Contributor
 
 Anyone who contributes code, documentation, design, testing, issue triage,

@@ -7,6 +7,8 @@ review a proposal, or submit a pull request.
 
 - Read the [charter](CHARTER.md), [decision process](DECISION-MAKING.md), and
   [Code of Conduct](CODE_OF_CONDUCT.md).
+- Read the [contributor ladder](CONTRIBUTOR_LADDER.md) before proposing a role
+  or ownership change.
 - Search open issues and pull requests for related work.
 - Report security vulnerabilities privately under the
   [security policy](SECURITY.md); do not open a public issue.
@@ -21,6 +23,10 @@ review a proposal, or submit a pull request.
 3. Submit a pull request containing the exact proposed text.
 4. Link the issue and summarize how material objections were resolved.
 5. Record any required Steering Committee vote before merge.
+
+Formal outcomes that meet the criteria in the
+[public decision log](decisions/README.md) must add a decision record within
+seven calendar days.
 
 Small editorial fixes may go directly to a pull request.
 
