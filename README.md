@@ -1,6 +1,8 @@
 # CAIPE Governance
 
 This repository defines how the Community AI Platform Engineering (CAIPE)
+
+[![CAIPE on StartupScores](https://startupscores.com/badge/caipe.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/caipe)
 project is governed.
 
 ## Governance documents
